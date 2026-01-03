@@ -21,3 +21,10 @@ Atleast in principle this is working but  I think the gui actually needs to be "
 Its not exactly a wave editor but I think modfifying those breakpints could in fact work as a specialized wave editor but still very primitive.
 
 But I am sort of trying to implent very old audio processes for audio manipualtion but rejuvinate that into a modernized vst3 plugins format
+
+
+How it works.
+
+Load the wav file... choose the tpye of data you want to extract.  press extract and save. 
+
+This file then can be used either in a future version, maybe, or an effector that is designed to allow breakpoitnprofiling based on that thing. Ex. a transient processor that uses the transient profile of another audio source.
